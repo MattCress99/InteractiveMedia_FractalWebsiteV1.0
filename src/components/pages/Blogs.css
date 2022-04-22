@@ -1,0 +1,54 @@
+.BlogSection{
+    padding: 2rem;
+}
+
+h2{
+    color:black;
+    margin-top: 35px;
+    margin-left: 20px;
+    font-size: 42px;
+}
+
+h3{
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+p{
+    margin-top: 8px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 4rem;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Blog1{
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(29, 4, 44, 0.466);
+}
+
+.Blog2
+{
+    border-radius: 10px;
+    box-shadow: 0px 6px 12px rgba(29, 4, 44, 0.466);
+}
+
+.Blog3
+{
+    border-radius: 10px;
+    box-shadow: 0px 6px 12px rgba(29, 4, 44, 0.466);
+}
+
+.Blog4
+{
+    border-radius: 10px;
+    box-shadow: 0px 6px 12px rgba(29, 4, 44, 0.466);
+}
