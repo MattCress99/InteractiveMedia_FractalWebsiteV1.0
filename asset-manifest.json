@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.57dcaa8d.css",
+    "main.js": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.711cd7f2.js",
+    "static/media/fractal4.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal4.50d6b7699b23838527c7.jpg",
+    "static/media/fractal5.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal5.70986bbd7a481fd123e1.jpg",
+    "static/media/fractal2.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal2.17b5983007e66c271d76.jpg",
+    "index.html": "/InteractiveMedia_FractalWebsiteV1.0/index.html",
+    "main.57dcaa8d.css.map": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.57dcaa8d.css.map",
+    "main.711cd7f2.js.map": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.711cd7f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57dcaa8d.css",
+    "static/js/main.711cd7f2.js"
+  ]
+}
