@@ -9,7 +9,7 @@ function MiniWindow(props){
           <figure className='miniWindow__pic-wrap' data-category={props.label}>
             <img
               className='miniWindow__img'
-              alt='Travel Img'
+              alt='Window_IMG'
               src={props.src}
             />
           </figure>
