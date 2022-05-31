@@ -17,7 +17,7 @@
   }
   
   .Blogs {
-    background-image: url('../public/images/fractal2.jpg');
+    background-image: url('images/fractal2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@
   }
   
   .Fractals {
-    background-image: url('../public/images/fractal5.jpg');
+    background-image: url('images/fractal5.jpg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
@@ -35,7 +35,7 @@
   }
   
   .FractalViewer {
-    background-image: url('../public/images/fractal4.jpg');
+    background-image: url('images/fractal4.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

@@ -9,8 +9,8 @@ function FractalPage() {
       <div className="fractal-container">
         <img
           className="fractal1"
-          src="/images/fractal1.jpg"
-          alt="Mandelbrot Fractal #1"
+          src='./images/fractaltree.png'
+          alt="Mandelbrot Fractal tree #1"
         ></img>
         <div className="Fractal_info">
           <h4>Fractals</h4>
