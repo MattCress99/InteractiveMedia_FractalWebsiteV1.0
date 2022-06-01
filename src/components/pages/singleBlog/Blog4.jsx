@@ -3,7 +3,7 @@ import "./singleBlog1.css"
 
 export default function Blog4() {
   return (
-    <div className="Blog4">
+    <div id="top" className="Blog4">
             <h2>
               A critical analysis of the internet artwork JODI and its relevance
               in the world of digital art

@@ -4,7 +4,7 @@ import "./singleBlog1.css"
 export default function Blog1() {
   return (
     <div className="Blog1">
-         <h2>
+         <h2 id="top">
               A critical analysis of Faith, a kinetic poem written by Robert
               Kendal
             </h2>

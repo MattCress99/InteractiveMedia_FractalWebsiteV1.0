@@ -14,6 +14,9 @@ import Blog5 from './components/pages/singleBlog/Blog5';
 import Blog6 from './components/pages/singleBlog/Blog6';
 import Blog7 from './components/pages/singleBlog/Blog7';
 import Blog8 from './components/pages/singleBlog/Blog8';
+import WireFrames from './components/pages/singleBlog/WireFrames';
+import Footer from './components/Footer';
+
 
 function App() {
   return (
@@ -33,7 +36,9 @@ function App() {
           <Route path='/Blog6' exact component={Blog6}/>
           <Route path='/Blog7' exact component={Blog7}/>
           <Route path='/Blog8' exact component={Blog8}/>
+          <Route path='/WireFrames' exact component={WireFrames}/>
         </Switch>
+      <Footer />
     </Router>
     </>
   );

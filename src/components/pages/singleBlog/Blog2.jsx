@@ -3,7 +3,7 @@ import "./singleBlog1.css"
 
 export default function Blog2() {
   return (
-    <div className="Blog2">
+    <div id="top" className="Blog2">
             <h2>Core principles for design and aesthetics for the web</h2>
             <br></br>
             <p>
