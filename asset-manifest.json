@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.57dcaa8d.css",
-    "main.js": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.711cd7f2.js",
+    "main.css": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.c2079ee5.css",
+    "main.js": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.85f2e764.js",
     "static/media/fractal4.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal4.50d6b7699b23838527c7.jpg",
+    "static/media/fractal1.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal1.106aaec37747228e4619.jpg",
     "static/media/fractal5.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal5.70986bbd7a481fd123e1.jpg",
     "static/media/fractal2.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal2.17b5983007e66c271d76.jpg",
+    "static/media/Faith.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/Faith.cb2c85d681c479eda45f.png",
     "index.html": "/InteractiveMedia_FractalWebsiteV1.0/index.html",
-    "main.57dcaa8d.css.map": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.57dcaa8d.css.map",
-    "main.711cd7f2.js.map": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.711cd7f2.js.map"
+    "main.c2079ee5.css.map": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.c2079ee5.css.map",
+    "main.85f2e764.js.map": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.85f2e764.js.map"
   },
   "entrypoints": [
-    "static/css/main.57dcaa8d.css",
-    "static/js/main.711cd7f2.js"
+    "static/css/main.c2079ee5.css",
+    "static/js/main.85f2e764.js"
   ]
 }
