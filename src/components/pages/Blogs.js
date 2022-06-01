@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
+import "../../App.css";
 import "./Blogs.css";
+import { Link } from 'react-router-dom';
+import { Button } from '../Button';
+import BackToTopButton from './BackToTopButton.js';
 
 export class Blogs extends Component {
   render() {
@@ -7,7 +11,7 @@ export class Blogs extends Component {
       <div>
         <h1 className="Blogs">Blogs</h1>
         <div className="BlogSection">
-          <div className="Blog1">
+          <div id='blog1' className="Blog1">
             <h2>
               A critical analysis of Faith, a kinetic poem written by Robert
               Kendal
@@ -151,7 +155,7 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div className="Blog2">
+          <div id='blog2' className="Blog2">
             <h2>Core principles for design and aesthetics for the web</h2>
             <br></br>
             <p>
@@ -324,7 +328,7 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div className="Blog3">
+          <div id='blog3' className="Blog3">
             <h2>Internet, Society and Design Justice</h2>
             <br></br>
             <p>
@@ -434,7 +438,7 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div className="Blog4">
+          <div id='blog4' className="Blog4">
             <h2>
               A critical analysis of the internet artwork JODI and its relevance
               in the world of digital art
@@ -767,7 +771,7 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div className="Reflection">
+          <div id='blog5' className="Reflection">
             <h2>A detailed reflection of the creation of my website</h2>
             <br></br>
             <p>
@@ -841,5 +845,7 @@ export class Blogs extends Component {
     );
   }
 }
+
+
 
 export default Blogs

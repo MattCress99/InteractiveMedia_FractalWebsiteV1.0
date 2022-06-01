@@ -1,0 +1,8 @@
+import React from 'react'
+import "./singleBlog1.css"
+
+export default function Blog6() {
+  return (
+    <div className="Blog6">Blog6</div>
+  )
+}

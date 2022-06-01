@@ -6,12 +6,7 @@ import './fractalPage.css';
 
 function FractalPage() {
     return (
-      <div className="fractal-container">
-        <img
-          className="fractal1"
-          src='./images/fractaltree.png'
-          alt="Mandelbrot Fractal tree #1"
-        ></img>
+      <div id='fractalContainer' className="fractal-container">
         <div className="Fractal_info">
           <h4>Fractals</h4>
           <span>A fractal is a never-ending pattern.</span>
