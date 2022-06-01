@@ -12,13 +12,13 @@ function ContentSection() {
         <div className="content_wrapper">
         <ul className="content_items">
             <MiniWindow
-              src={require("../images/fractalart.png")}
+              src={require("../images/Faith.png")}
               text="A critical analysis of Faith, a kinetic poem written by Robert Kendal"
               label="Net Art"
               path="/Blog1#top"
             />
             <MiniWindow
-              src={require("../images/fractalart2.png")}
+              src={require("../images/nature_fractals.jpg")}
               text="Core principles for design justice on the web"
               label="fractal"
               path="/Blog2#top"
@@ -38,7 +38,7 @@ function ContentSection() {
               path="/Blog4#top"
             />
              <MiniWindow
-              src={require("../images/istockphoto-1064497042-612x612.jpg")}
+              src={require("../images/fractal6.jpg")}
               text="A detailed reflection of the creation of my website"
               label="reflection"
               path="/Blog5#top"
@@ -46,13 +46,13 @@ function ContentSection() {
           </ul>
           <ul class="content_items">
           <MiniWindow
-              src={require("../images/JODI2.png")}
+              src={require("../images/nature_fractals2.jpg")}
               text="Blog6"
               label="Blog6"
               path="/Blog6#top"
             />
             <MiniWindow
-              src={require("../images/JODI.png")}
+              src={require("../images/img_0832.jpg")}
               text="Blog7"
               label="Blog7"
               path="/Blog4#top"
