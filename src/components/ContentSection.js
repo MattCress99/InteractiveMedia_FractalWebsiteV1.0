@@ -1,6 +1,5 @@
 import React from "react";
 import MiniWindow from "./MiniWindow";
-import FaithImg from "../images/Faith.png";
 import "./MiniWindow.css";
 
 function ContentSection() {
@@ -38,7 +37,7 @@ function ContentSection() {
               path="/Blog4#top"
             />
              <MiniWindow
-              src={require("../images/fractal6.jpg")}
+              src={require("../images/frac.jpg")}
               text="A detailed reflection of the creation of my website"
               label="reflection"
               path="/Blog5#top"

@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import "../../App.css";
 import "./Blogs.css";
-import { Link } from 'react-router-dom';
-import { Button } from '../Button';
-import BackToTopButton from './BackToTopButton.js';
+
 
 export class Blogs extends Component {
   render() {

@@ -191,8 +191,8 @@
     var width, height;
 
     if (this.fullscreenSupported) {
-      width = screen.width;
-      height = screen.height;
+      width = window.screen.width;
+      height = window.screen.height;
     } else {
 
       //important - use clientWidth/Height instead of innerWidth/Height
