@@ -8,7 +8,7 @@
     window.mandelbrotFractal = {};
   }
   window.mandelbrotFractal.Fractal = Fractal;
-
+  
   function Fractal(canvas){
     this.canvas = canvas;
     this.ctx = canvas.getContext("2d");

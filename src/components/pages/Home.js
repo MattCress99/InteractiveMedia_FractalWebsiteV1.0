@@ -1,6 +1,7 @@
 import React from 'react'
 import '../../App.css';
 import ContentSection from '../ContentSection';
+import Footer from '../Footer';
 import FractalPage from '../fractalPage';
 
 function Home () {
@@ -8,6 +9,7 @@ function Home () {
         <>
             <FractalPage />
             <ContentSection />
+            <Footer />
         </>
     );
 }

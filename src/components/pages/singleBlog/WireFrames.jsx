@@ -4,7 +4,7 @@ import "./singleBlog1.css"
 export default function WireFrames() {
   return (
     <div>
-          <h1 className="WireFrames-title">Wireframes</h1>
+          <h1 className="wireFrames-title">Wireframes</h1>
           <div class="row">
               <div class="column">
                   <img
