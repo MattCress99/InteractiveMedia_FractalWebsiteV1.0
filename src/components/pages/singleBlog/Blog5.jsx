@@ -73,7 +73,7 @@ export default function Blog5() {
               mandelbrot fractal viewer.{" "}
             </p>
         </div>
-        <div className="Reflection1">
+        <div className="Reflection2">
           <h2>Reflection 2 of Fractally, a website about Fractals.</h2>
             <br></br>
             <p>
