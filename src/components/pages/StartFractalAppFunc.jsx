@@ -1,11 +1,11 @@
-import fracApp from "../app/fractalApp.js"
+import mandelbrotFractal from "../app/fractalApp.js"
 
-/*
-(function () {
+
+(function Initialize() {
   "use-strict";
   function startApp() {
-    fracApp.window.mandelbrotFractal.runningApp = new mandelbrotFractal.App();
+    window.mandelbrotFractal.runningApp = new mandelbrotFractal.App();
     document.removeEventListener("DOMContentLoaded", startApp);
   }
   document.addEventListener("DOMContentLoaded", startApp);
-})();*/
+})();

@@ -9,7 +9,7 @@ export class Blogs extends Component {
       <div>
         <h1 className="Blogs">Blogs</h1>
         <div className="BlogSection">
-          <div id='blog1' className="Blog1">
+          <div id="blog1" className="Blog1">
             <h2>
               A critical analysis of Faith, a kinetic poem written by Robert
               Kendal
@@ -153,7 +153,7 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div id='blog2' className="Blog2">
+          <div id="blog2" className="Blog2">
             <h2>Core principles for design and aesthetics for the web</h2>
             <br></br>
             <p>
@@ -326,7 +326,7 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div id='blog3' className="Blog3">
+          <div id="blog3" className="Blog3">
             <h2>Internet, Society and Design Justice</h2>
             <br></br>
             <p>
@@ -436,7 +436,7 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div id='blog4' className="Blog4">
+          <div id="blog4" className="Blog4">
             <h2>
               A critical analysis of the internet artwork JODI and its relevance
               in the world of digital art
@@ -769,7 +769,304 @@ export class Blogs extends Component {
             <br></br>
           </div>
 
-          <div id='blog5' className="Reflection">
+          <div id="top" className="Blog7">
+      <h2>Design in our Daily</h2>
+            <br></br>
+            <p>
+            It feels as though ‘design’ has been deeply incorporated into my everyday life. Whether it be through music and mixing songs to design sounds and emotions, through the creation of this website, or even through the cup of coffee I make each morning. I feel like we are all constantly designing. The outfits we wear and messages we construct over our phones are all products of design. And it seems the more and more we design the more beautiful this world is becoming.
+            </p>
+            <br></br>
+            <p>
+            “Design is the conscious and intuitive effort to impose meaningful order” according to Victor Papanek in his book Design for human scale. In it, he states that all men are designers. Personally, I agree with this statement, but I feel like this statement is not broad enough. I believe that all Beings are designers. Not just humans, all living creatures design. A great example of this is the ornate and beautiful geometric designs created in the sand by the male puffer fish in the seas of Japan, in order to attract a mate. The infinitely present fractals found all over the world and in every aspect of nature and natural design. From mountains, to coastlines to river structures. In the delicate and iterative shapes of snowflakes and the beautiful spirals that nature tends to follow.
+            </p>
+            <br></br>
+            <p>
+            There is design in everything. Papanek says “We constantly try to understand our ever-changingly highly complex existence by seeking order in it. And what we seek we find.” There is pattern and design all around us, it can be seen in the perfect hexagons of honeycombs or how often the Fibonacci sequence presents itself so perfectly in nature. A great example of this can be seen in the petals of flowers. Most have 3 (like lilies), 5 (like parnassia), 8 (like cosmea), or 13 (like daisies). This goes on and you will always find that the number of petals a flower has (if not damaged) corresponds to one of the numbers in the Fibonacci sequence. Design is highly integrated into nature, everything has a purpose and happens for a reason, and as Papanek says “The reason we enjoy things in nature is that we see an economy of means, simplicity, elegance, and an essential rightness there.”
+            </p>
+            <br></br>
+            <p>
+            There is always a reason for the design, no matter how simple. But beauty in design cannot be truly be achieved without understanding the function of the design, the reason for it to be created in the first place. Papanek highlights this point in his writings when he states that “The mode of action by which a design fulfills its purpose is its function”. I find this to be highly useful when designing anything myself. I personally feel like I can’t start to create a good design before I know what the function of that design is.
+            </p>
+            <br></br>
+            <p>
+              A point that Papanek so clearly defines in his writings is that design must be ‘meaningful’ as we as humans respond to that which has meaning. And in order to create this meaning, we must make correct use of the tools, materials, and processes we have at hand in our environment.
+            </p>
+            <p>By: Matthew Cresswell</p>
+            <br></br>
+            <h3>References:</h3>
+            <br></br>
+            <p> Papanek, V., 1983. Design for human scale. New York: Chapman & Hall.</p>
+            <br></br>
+          </div>
+
+          <div className="Blog8">
+      <h2>Fractal Design in African Art</h2>
+            <br></br>
+            <p>Africa is a continent that is rich in culture and history. Due to its large ethnic and cultural diversity many different traditions and practices have been established, and due to this many forms of creation and art. What is most unique about the art that comes from Africa in comparison to the rest of the world, is that it is mostly created due to societal needs or as a form of creativity, tradition and expression, rather than a means of wealth… It was created as art with a purpose [1]. Many different forms of art stem from Africa, these include Basket making, beadworking, painting, carving, sculpting and so much more. There has always been a large focus on the aesthetic design of African artworks and much interest has been taken in its shapes, colours, uses and meanings. However, very little focus has been put into the technical and mathematical systems, as well as the cultural and political impacts, underlying the design of such artworks.  
+</p>
+            <br></br>
+            <p>In recent years more research has been done around African art and the mathematical constructs involving its creation, particularly fractal geometry. Ron Eglash, an author and professor who is widely known for his works in ethnomathematics, ethnocomputing and the diverse relationships between mathematics and culture, writes on the prevalence of Fractals in African Culture in his book “African Fractals: Modern Computing and Indigineous Design”[2]. Research has shown some rather interesting results, and it indicates that fractals are well entangled in the roots of african art and design. Fractal and mathematical design has been found in traditional ways of constructing homesteads, pattern generation, designing sigils and religious rites. The presence of these mathematical forms in the core design of cultural and societal artefacts suggests a far more advanced understanding of mathematics in early African society than was widely thought[3]. Attention can be drawn to the structural patterns of pre colonial African settlements which tend to follow a fractal design, this Egland says, is simply due to the fact that fractal design is widely present in African culture and its design practices.
+</p>
+            <br></br>
+            <p>In an attempt to further understand this fractal design within African art, I visited the Wits Art Museum which is known to have an extensive collection of African art and history. My visit was enjoyable, however, not as insightful as I thought it would be. I struggled to find fractal design present in the majority of the artworks such as the paintings and sculptures, which just appeared to be abstract or of creative influence rather than mathematical in design. In the beadwork I could find occurrences of iteration and multiple occurrences of linear scaling and particularly in the use of linear-concentrically scaled triangles that were present in almost all of the beadwork items in the museum. I still wasn’t too convinced as these items followed very basic iterative sets such as 1,2,3,4,... which is a very basic set of iteratively scaled numbers and not so much true recursion.</p>
+            <br></br>
+            <p>The traditional handwoven baskets, however, were laced with evidence of recursion, fractals and fractal integrated design. The traditional zulu baskets are made from ilala palm fronds which are stripped and dyed using natural materials such as mud, flowers, charcoal, bark, roots and other materials found in the area [4]. These baskets were used to store food and grain, as well as to carry alcohol and other liquids. The larger baskets are often woven by brides-to-be or given as wedding gifts and require significantly more time and effort to make and can sometimes take up to an entire year to complete. More elaborately designed and intricately patterned baskets denote the relative wealth and power of the family that owns it.
+</p>
+            <br></br>
+            <p>The Fibonacci spiral or more accurately Archimedean spiral of the baskets weaved spines was present in all the designs of the baskets at the museum. One basket followed a beautiful iterative pattern of increasingly larger diamonds, each a different colour. The diamonds on the basket are said to represent femininity and a string of diamonds represents the shield of Shaka.When viewed vertically the spine that the basket follows when being made follows the shape of an archimedean spiral. Due to the presence of this spiral at the base of its construction it can be seen that the baskets follow a scaling design and are designed to follow an eulerian path when being created (Centre-outwards, or top-to-bottom). The presence of recursion in both the design and aesthetics of the basket are excellent examples of the prevalence of fractal design in African culture. A bowl that was placed at the end of the exhibition, made for the 1995 rugby world cup, was created in a beautiful archimedean spiral shape and was made up of linearly-scaled rings or linearly-concentric circles of different colours. 
+</p>
+            <br></br>
+            <p>I found these examples to be good accounts of fractal geometry present within African culture, however, I wasn't fully satisfied with this evidence. Upon doing more research I found a picture of a flat bowl stored at the Wits Art Museum created by Esta Zulu, a Tintsaba (Master Weavers) from eSwatini. The artwork's name is “Spiralling Energy” and it was created in 2014. The bowl is woven from agave sisalana (sisal) and lutindzi grass, both common plants found in Southern Africa. The bowl has a beautiful black archimedean spiral across its surface. No other patterns or geometrics are present on the bowl besides the spiral. The bowl is a beautiful construct composed entirely of archimedean spirals [5]. The actual material of the bowel is laced together in an archimedean spiral, with the bowl being created from the inner point and expanding outwards. The spiral on the bowl is entirely fractal in nature as its shape is that of a point moving on a line that is rotated uniformly about the origin (an Archemedian spiral) and the spiral is composed of a sequence of lines that iteratively increase in width as it expands outwards from the centre of the bowl. I believe that this bowl is a perfect example of fractal design in African culture and is so relevant to the subject that one could even consider it a caricature of fractal design in African art. I believe the artist wanted to place focus on the nature of the spiral itself by incorporating a spiral into every element of its design, she is commenting on that nature of the spiral in our everyday lives. It is a commonly known fact that the fibonacci sequence can be found in almost all of nature, and I feel that this bowl highlights that.
+</p>
+            <br></br>
+            <p>These bowls and baskets were not designed to represent the nature of fractals in a physical manner, in fact these bowls follow fractal design because this is what made the design of these pieces possible. They are just rules and processes that these cultures follow and have found to work and therefore they have integrated them into their society. The evidence of iterative design in Africa is widely prevalent from the designs in straw walls, to settlement construction. The Chokwe people of Angola have a tradition of drawing eulerian paths in the sand. This was done as an age based initiation system, which one would have to learn at a certain age. This allowed for iterations of knowledge to be passed from one generation to another and to allow for more knowledge to be shared and gained as one grew older.</p>
+            <br></br>
+            <p>The evidence I have provided above is sufficient enough to say that fractals are deeply woven in the history and culture of Africa, and that African fractals are not just the result of spontaneous intuition but are, however, ingrained in African tradition as rule-bound techniques that can be seen as equivalent to Western mathematics. The significance of the presence of fractals in African history is that it can help to break down long held myths and misconceptions of Africans being inactive agents in history that have contributed little to the global fields of science, technology and mathematics. This enate mathematical design shows that the African peoples were significantly more advanced than is widely believed, and had a far better understanding of mathematics, patterns, and self-organisation. By examining and understanding these design decisions and traditions of iterative and mathematically influenced design, we can break down racist mindsets by helping to decompose connotations that African cultures were not technologically advanced and had little understanding of mathematics, and can help to find many strategies to promote technological research, self organisation, and egalitarianism.
+</p>
+            <br></br>
+            <h3>References:</h3>
+            <br></br>
+            <p>[1]Collections.dma.org. 2022. Cultures and Traditions - African Art in Context - DMA Collection Online. [online] Available at: https://collections.dma.org/essay/oV18eGaO [Accessed 3 April 2022].
+</p>
+            <br></br>
+            <p>[2] Eglash, R., 1999. African fractals: Modern computing and Indigineous design. New Brunswick: Rutgers university press.
+</p>
+            <br></br>
+            <p>[3] Bristow, T. (2016). Access to Ghosts. In L. O. T. Hiendrich, Sean (Ed.), African Futures. Germany: Kerber Verlag.
+</p>
+            <br></br>
+            <p>[4] Baskets of Africa. 2022. Weaving Zulu Ilala Palm Baskets in South Africa - Baskets of Africa. [online] Available at: https://basketsofafrica.com/wp/weaving-zulu-ilala-palm-baskets-in-south-africa/ [Accessed 3 April 2022].</p>
+            <br></br>
+            <p>[5] Esta Zulu, Tintsaba (Master Weavers), eSwatini, “Spiralling Energy”, 2014, woven agave sisalana (sisal) and lutindzi grass, 25 x 125,5 x 125,5 cm. Standard Bank African Art Collection (Wits Art Museum). https://www.facebook.com/WitsArtMuseum/photos/a.158849150796906/5193800203968417/[Acessed 3 April 2022]</p>
+            <br></br>
+            
+          </div>
+
+          <div id="blog6" className="Blog6">
+            <h2 className="prepWork">
+              Internet Artwork - Preparatory work, Why Fractals?
+            </h2>
+            <br></br>
+            <p>
+              Throughout my life I have always been intrigued by the unknown and
+              the complex. In grade 10 I was introduced to the idea of imaginary
+              numbers or i the square root of -1 (√-1). This number is
+              theoretically impossible, but through a series of logical
+              inductions one can arrive at a proof that √-1 does in fact exist.
+              This blew my mind and I was immediately invested in the concept.
+              After doing more research on the topic of i, I came across an
+              interesting topic, fractals, which are produced by an equation
+              using the number i. The idea is that a fractal is something that
+              is built from infinitely smaller parts of itself. A fractal is a
+              never-ending pattern. Fractals are infinitely complex patterns
+              that are self-similar across different scales. They are created by
+              repeating a simple process over and over in an ongoing feedback
+              loop. Driven by recursion, fractals are images of dynamic systems
+              – they are the images of pure Chaos.[1]
+            </p>
+            <br></br>
+            <p>
+              Fractals exist geometrically between our familiar dimensions (the
+              real numbers plane). Fractals can be found in all areas of life,
+              and they occur quite commonly in nature as well. In nature
+              fractals can be seen in plants, trees, rivers, coastlines,
+              mountains, clouds, seashells, hurricanes and so much more. These
+              more natural fractals often follow sets succh as the golden spiral
+              which are based off a number sequence known as the fibonacci
+              sequence. however, abstract fractals – such as the Mandelbrot Set
+              – can be generated by a computer calculating a simple equation
+              over and over. This is what my focuses is on, abstract fractals
+              and most particularly the Mandelbrot Set.
+            </p>
+            <br></br>
+            <p>
+              The equation for a Mandelbrot set generally looks like this{" "}
+              <i>
+                <b>
+                  i<sub>n+1</sub> = i<sub>n</sub>
+                  <sup>2</sup> + c
+                </b>
+              </i>
+              . In this equation, c and i are complex or imaginary numbers and n
+              is zero or any positive integer (i.e. natural number). What this
+              equation basically means is that the next i value in the set is
+              equal to its previous i value square plus some complex number, c.
+              The equation is built upon sets of itself essentially. The
+              equation was discovered by Benoît Mandelbrot in 1979 [2]. Using
+              IBM’s computers, he was able to use computer graphics to create
+              and display fractal geometric images, this allowed him to show how
+              visual complexity can be created from simple rules.
+            </p>
+            <br></br>
+            <p>
+              I have found fractals to be one of the most beautiful and complex
+              things I have ever seen. Therefore, the net art I have chosen to
+              create is a website that allows one to view a Mandelbrot fractal.
+              The purpose of the website is to give a good understanding of what
+              fractals are and then to allow one to view a fractal in detail. I
+              have researched various fractal generators online, most cost money
+              and are quite complex to use. They work off of applications that
+              run the software as an application on your computer. These include
+              websites like Mandelbulb 3D, Apophysis and XenoDream [3][4][5].
+              However, I was able to find some websites that allowed you to
+              generate and view fractals. The first was{" "}
+              <a
+                href="https://sciencevsmagic.net/fractal/#0060,0090,1,1,0,0,1"
+                target="_blank"
+              >
+                Science vs. Magic
+              </a>
+              [6], and is a fantastic website that teaches you how fractals are
+              built from recursion and iterative feedback loops. The website
+              uses line algorithms and builds upon them to create very intricate
+              and beautiful equations. The{" "}
+              <a href="http://usefuljs.net/fractals/" target="_blank">
+                UsefulJs’ online fractal generator
+              </a>{" "}
+              [7] website is another very good website that allows one to view
+              various fractal sets such as the mandelbrot set in great detail
+              and it also allows you to alter the equation used to produce the
+              set, in order to produce new sets.
+            </p>
+            <br></br>
+            <p>
+              With my website I will look for an external Javascript plugin that
+              will allow me to generate a Mandelbrot fractal set that the viewer
+              of the webpage can explore in great detail. I will use a fractal
+              generator to produce and extremely high resolution fractal image
+              that the user can zoom into in order to see how a fractal is built
+              upon infinite parts of itself. I feel the best way to understand
+              exactly what a fractal is, is to see it and explore its parts. I
+              personally love to watch videos of fractal sets rendered by super
+              computers. They are beautiful and the way they continue to create
+              themselves endlessly is super entertaining to watch and quite
+              relaxing. I feel I may occur some technical concerns here when it
+              comes to implementing the fractal generator on the website as the
+              code is complex and will be tricky to understand and utilize for
+              my own purposes. However, I will do further research into external
+              fractal plugins for javascript and react.
+            </p>
+            <br></br>
+            <p>
+              I hope that by creating this website, I will be able to explore
+              fractals further and gain a deeper grasp and understanding of what
+              they are, how they are created and there purposes in all areas of
+              life. I hope to share the love I have for fractals through my
+              website and hopefully create that love in you too.
+            </p>
+            <br></br>
+            <h3>References:</h3>
+            <br></br>
+            <p>
+              [1] Fractalfoundation.org. n.d. What are Fractals? – Fractal
+              Foundation. [online] Available at:
+              https://fractalfoundation.org/resources/what-are-fractals/#:~:text=A%20fractal%20is%20a%20never,systems%20%E2%80%93%20the%20pictures%20of%20Chaos.
+              [Accessed 3 June 2022].
+            </p>
+            <br></br>
+            <p>
+              [2]Wikipedia. n.d. Mandelbrot set - Simple English Wikipedia, the
+              free encyclopedia. [online] Available at:
+              https://simple.wikipedia.org/wiki/Mandelbrot_set#:~:text=The%20Mandelbrot%20set%20can%20be,positive%20integer%20(natural%20number).
+              [Accessed 3 June 2022].
+            </p>
+            <br></br>
+            <p>
+              [3]Mandelbulb.com. n.d. Mandelbulb.com | The 3D Fractal
+              Experience. [online] Available at: https://www.mandelbulb.com/
+              [Accessed 3 June 2022].
+            </p>
+            <br></br>
+            <p>
+              [4]SourceForge. n.d. Apophysis. [online] Available at:
+              https://sourceforge.net/projects/apophysis/ [Accessed 3 June
+              2022].
+            </p>
+            <br></br>
+            <p>
+              [5]Xenodream.com. XenoDream Program - 3D graphics software.
+              [online] Available at: https://xenodream.com/xenodream1.htm
+              [Accessed 3 June 2022].
+            </p>
+            <br></br>
+            <p>
+              [6]Disseldorp, N., n.d. FRACTAL MACHINE. [online]
+              Sciencevsmagic.net. Available at:
+              https://sciencevsmagic.net/fractal/#0060,0090,1,1,0,0,1 [Accessed
+              3 June 2022].
+            </p>
+            <br></br>
+            <p>
+              [7]Williams, C., n.d. Online Fractal Generator. [online]
+              Usefuljs.net. Available at: http://usefuljs.net/fractals/
+              [Accessed 3 June 2022].
+            </p>
+            <br></br>
+            <h2 className="prepWork2">
+              Internet Artwork Prototype - Discussion and Future Development
+            </h2>
+            <br></br>
+            <p>
+              My website, Fractally, is coming along quite nicely. I am in the
+              prototyping phase of development. For this release of the
+              prototype I have been working on implementing a fractal generator
+              plugin that will allow the viewer to view a detailed Mandelbrot
+              set. The plugin uses an open source GNU general public license
+              javascript application that generates the MandelBrot fractal
+              through an algorithm created by Raphael Pedicini. The code is
+              split into two independent parts: app.js and fractal.js. The app
+              handles all the setup and user interaction, and communicates these
+              to the fractal using the fractal's api. The fractal just
+              calculates and draws itself based on the settings it receives from
+              the app. I have been working on implementing the code into my
+              website, however it is extremely complex and has taken quite some
+              time to get my head around. Therefore, I have decided that for
+              this prototype I will not include the fractal generator and will
+              instead include it in the final release of the website. I feel
+              this is necessary as the website still needs work in places
+              elsewhere and as I will need more time to get the fractal
+              generator working, I feel it would be best to work on these areas
+              of improvement so that the website is almost entirely complete
+              without the fractal generator. This will allow me to focus my
+              efforts on getting the fractal generator working for the final
+              release and allow me to complete the rest of the website in the
+              meantime.
+            </p>
+            <br></br>
+            <p>
+              For this release there are a few bugs that I need to fix. The
+              first is my images which are too large and dont link correctly in
+              certain areas. I would like to add an individual viewing window
+              for each of my blogs so one does not have to scroll so much, and
+              possibly add a back to the top button on my blog page. I will
+              implement a footer to the website with copyright information and
+              my personal information for contact purposes. I will fill the site
+              will all the necessary information to make it feel more populated
+              and complete. I have designed the website to have feels of both
+              early html mathematics websites, through the simple text styles
+              and isolated areas of text and image, and modern ‘ios’ like
+              applications through the navbar design and simple but clean User
+              Interface.
+            </p>
+            <br></br>
+            <p>
+              As of this moment the website does not particularly stand as an
+              interactable artwork, although it may be very visually stimulating
+              and appealing making it appear ‘artsy’, it is still not yet fully
+              interactable as the main point of the website, the fractal
+              generator, will not be available yet. However, I do believe as it
+              is now the website provides a beautiful insight into the art of
+              fractals and displays their beauty in very efficient and simple
+              manner. For the final release of the website, the fractal
+              generator will be working and then I believe the website can be
+              termed a brilliant example of an internet artwork.
+            </p>
+            <br></br>
+            <p>By: Matthew Cresswell</p>
+            <br></br>
+          </div>
+
+          <div id="blog5" className="Reflection">
             <h2>A detailed reflection of the creation of my website</h2>
             <br></br>
             <p>
@@ -829,7 +1126,7 @@ export class Blogs extends Component {
               have been looking at using these in conjunction with myt website
               to create and even more spectacular library of fractals.
             </p>
-                <br></br>
+            <br></br>
             <p>
               The website has all features of its skeleton/framework in place.
               What is left is for me to add a footer to the website with

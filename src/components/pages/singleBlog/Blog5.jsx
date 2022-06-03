@@ -4,7 +4,8 @@ import "./singleBlog1.css"
 export default function Blog5() {
   return (
     <div id='top' className="Reflection">
-            <h2>A detailed reflection of the creation of my website</h2>
+      <div className="Reflection1">
+          <h2>A detailed reflection of the creation of my website</h2>
             <br></br>
             <p>
               Fractally is a website that looks at Fractals in all their wonder.
@@ -71,6 +72,36 @@ export default function Blog5() {
               the next iteration of this website will be on creating the
               mandelbrot fractal viewer.{" "}
             </p>
-          </div>
+        </div>
+        <div className="Reflection1">
+          <h2>Reflection 2 of Fractally, a website about Fractals.</h2>
+            <br></br>
+            <p>
+            The website has shown significant progress and is in a state where I can say it is almost complete and functional as my own fractal inspired website. The website is almost entirely functional with only the Fractal Viewer component that still needs to be implemented and hyperlinks to my social media accounts. Otherwise, the page is fully responsive for PC and mobile and has all the information in it that I believe gives you a good understanding of what fractals are and some great examples of fractals themselves.
+            </p>
+            <br></br>
+            <p>
+            My focus for this release was understanding the fractal plugin and to fill the website with the rest of the needed content. I have made a lot of progress in understanding the code and algorithms written by Rafael Pedicini. I have a fractal.html file in my src folder that allows the user to view the fractal generator, however, I am still in the process of applying this plugin to my main website. The code is extremely complex and has taken me sometime to understand. I will not be able to have a working version of the plugin available in time for this submission so I focused my efforts on my writing and the content of the website. I have added videos and pictures of fractals as well as some useful information about fractals in the fractal page of my website. 
+            </p>
+            <br></br>
+            <p>
+            I focused on finding the style of my website, which is a clean simple ios like interface that uses Times new roman font to create a mathematical feel to the website. The text and images are isolated from each other and will not appear next to each other, only above or below. I have created individual blog pages for each of my blogs, I felt it was tedious and time consuming to scroll through all the blogs on the webpage so to fix this issue I created the individual blog pages that allow you to view each blog in an isolated tab.
+            </p>
+            <br></br>
+            <p>
+            I felt that a footer was necessary to make the website look professional and ‘complete’. Therefore, I added a simple footer that includes my contact information and social media links, however, the hyperlinks to my social media pages do not work yet. 
+            </p>
+            <br></br>
+            <p>
+            For the final release of the website I will incorporate the fractal generator software to the Fractal Viewer page of my website. I will dedicate my time on this one issue as I feel it is the most important part of the website and it needs to be included in some way or another. I am happy with the progress of my website this far, I feel it has all the necessary information about fractals that one will need to gain a basic understanding of them, with out going into serious detail regarding the maths and the algorithms used to create fractals. With the final release of the website I feel I will have created an impactful net artwork that incorporates all the elements and beauty of fractals.
+            </p>
+            <br></br>
+            <p>
+              By: Matthew Cresswell
+            </p>
+            <br></br>
+        </div>
+    </div>
+    
   )
 }

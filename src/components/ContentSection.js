@@ -19,7 +19,7 @@ function ContentSection() {
             <MiniWindow
               src={require("../images/nature_fractals.jpg")}
               text="Core principles for design justice on the web"
-              label="fractal"
+              label="Design"
               path="/Blog2#top"
             />
           </ul>
@@ -27,7 +27,7 @@ function ContentSection() {
             <MiniWindow
               src={require("../images/JODI2.png")}
               text="Internet, Society and Design Justice"
-              label="fractal"
+              label="Design"
               path="/Blog3#top"
             />
             <MiniWindow
@@ -37,30 +37,30 @@ function ContentSection() {
               path="/Blog4#top"
             />
              <MiniWindow
-              src={require("../images/frac.jpg")}
-              text="A detailed reflection of the creation of my website"
-              label="reflection"
-              path="/Blog5#top"
+              src={require("../images/img_0832.jpg")}
+              text="Design in our Daily"
+              label="Design"
+              path="/Blog7#top"
             />
           </ul>
           <ul class="content_items">
           <MiniWindow
+              src={require("../images/SpirallingEnergy.jpg")}
+              text="Fractal Design in African Art"
+              label="Fractals"
+              path="/Blog8"
+            />
+          <MiniWindow
               src={require("../images/nature_fractals2.jpg")}
-              text="Blog6"
-              label="Blog6"
+              text="Internet Artwork - a disccussion of my website"
+              label="Internet Artwork"
               path="/Blog6#top"
             />
             <MiniWindow
-              src={require("../images/img_0832.jpg")}
-              text="Blog7"
-              label="Blog7"
-              path="/Blog4#top"
-            />
-             <MiniWindow
-              src={require("../images/SpirallingEnergy.jpg")}
-              text="Blog8"
-              label="Blog8"
-              path="/Blog8"
+              src={require("../images/frac.jpg")}
+              text="A detailed reflection of the creation of my website"
+              label="Reflection"
+              path="/Blog5#top"
             />
             <MiniWindow
               src={require("../images/fractaltree.png")}

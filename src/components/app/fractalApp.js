@@ -4,7 +4,7 @@
 (function(){
   'use strict';
 
-  if (typeof window.mandelbrotFractal === "undefined") {
+  if (typeof window.mandelbrotFractal == "undefined") {
     window.mandelbrotFractal = {};
   }
   window.mandelbrotFractal.Fractal = Fractal;

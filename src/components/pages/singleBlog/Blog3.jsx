@@ -89,7 +89,7 @@ export default function Blog3() {
               development, communication, education and improve the standard of
               living for everyone within the world.
             </p>
-            <p>By; Matthew Cresswell</p>
+            <p>By: Matthew Cresswell</p>
             <br></br>
             <h3>References:</h3>
             <p>

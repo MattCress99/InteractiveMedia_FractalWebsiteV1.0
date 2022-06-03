@@ -9,7 +9,7 @@ function Home () {
         <>
             <FractalPage />
             <ContentSection />
-            <Footer />
+            
         </>
     );
 }
