@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.f51db81f.css",
-    "main.js": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.91d6b180.js",
-    "static/media/fractal4.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal4.50d6b7699b23838527c7.jpg",
-    "static/media/fractal1.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal1.106aaec37747228e4619.jpg",
-    "static/media/fractal5.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal5.70986bbd7a481fd123e1.jpg",
-    "static/media/fractal2.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal2.17b5983007e66c271d76.jpg",
-    "static/media/SpirallingEnergy.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/SpirallingEnergy.f25b644a01c75b347513.jpg",
-    "static/media/nature_fractals.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/nature_fractals.aad97de6eb1ecf0bf6f8.jpg",
-    "static/media/img_0832.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/img_0832.a96b4ab2d226ba21e5ae.jpg",
-    "static/media/Wireframe1.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/Wireframe1.3543ca854f4b08e5b503.png",
-    "static/media/nature_fractals2.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/nature_fractals2.e50dcd47b2390458d1f0.jpg",
-    "static/media/Wireframe2.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/Wireframe2.5dcbcaf3b08d7a117d9b.png",
-    "static/media/JODI.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/JODI.aeba7bde39ae391ec686.png",
-    "static/media/frac.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/frac.a8d30075401c65c1f44c.jpg",
+    "main.css": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.34696654.css",
+    "main.js": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.7245f884.js",
+    "static/media/fractal1.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal1.93d3ef3bced469ebf2ba.jpg",
+    "static/media/fractal4.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal4.289b7364150abd0a928c.jpg",
+    "static/media/fractal5.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal5.4d4d3fddac0a9f96cfee.jpg",
+    "static/media/SpirallingEnergy.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/SpirallingEnergy.c77214747e2eca9524d2.jpg",
+    "static/media/fractal2.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal2.389ce2444ecd1125779a.jpg",
+    "static/media/img_0832.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/img_0832.fbb68785ac729e6313da.jpg",
+    "static/media/Wireframe1.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/Wireframe1.052b8a5aa54ab349ce82.png",
+    "static/media/Wireframe2.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/Wireframe2.222c03efb5a429db55d6.png",
+    "static/media/nature_fractals2.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/nature_fractals2.aee11276a249ee9d5a26.jpg",
+    "static/media/nature_fractals.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/nature_fractals.a3c1fc2049dbbd323548.jpg",
+    "static/media/frac.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/frac.fc5ce3fc230de9c47f43.jpg",
     "static/media/JODI2.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/JODI2.8884fda637186177fed8.png",
-    "static/media/fractaltree.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractaltree.6667c076c4dcfa44233b.png",
+    "static/media/JODI.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/JODI.e5fdc730e4acb95cbfa9.png",
+    "static/media/fractaltree.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractaltree.03f6bf16a90793fd17f9.png",
     "static/media/Faith.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/Faith.cb2c85d681c479eda45f.png",
     "static/media/MandelbrotSet_axis.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/MandelbrotSet_axis.890727667632aac1a1a2.png",
     "static/media/MandelBrotSet2.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/MandelBrotSet2.dd66d646546229438dac.png",
     "index.html": "/InteractiveMedia_FractalWebsiteV1.0/index.html",
-    "main.f51db81f.css.map": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.f51db81f.css.map",
-    "main.91d6b180.js.map": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.91d6b180.js.map"
+    "main.34696654.css.map": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.34696654.css.map",
+    "main.7245f884.js.map": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.7245f884.js.map"
   },
   "entrypoints": [
-    "static/css/main.f51db81f.css",
-    "static/js/main.91d6b180.js"
+    "static/css/main.34696654.css",
+    "static/js/main.7245f884.js"
   ]
 }
