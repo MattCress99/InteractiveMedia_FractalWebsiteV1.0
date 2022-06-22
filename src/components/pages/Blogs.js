@@ -1134,6 +1134,7 @@ export class Blogs extends Component {
               the next iteration of this website will be on creating the
               mandelbrot fractal viewer.{" "}
             </p>
+            <br></br>
           </div>
           <div className="Reflection2">
           <h2>Reflection 2 of Fractally, a website about Fractals.</h2>

@@ -1,5 +1,5 @@
 /*reset*/
-html, body, div, span, a, p, main {
+/*html, body, div, span, a, p, main {
   margin: 0;
   border: 0;
   padding: 0;
@@ -41,7 +41,7 @@ main {
   padding:4vw;
   border-radius: 50%;
   transition: 0.2s;
-}
+}*/
 
 #launch-fractal{
   display: block;
@@ -109,11 +109,11 @@ main {
     color: #009800;
 }
 
-main:hover, .touch main {
+/*main:hover, .touch main {
   background-color: #b0b0b0;
   box-shadow: 0 0 1vw rgba(0,60,0,0.4);
   transition: 0.3s;
-}
+}*/
 
 #launch-fractal:hover #launch-text {
   transition: 0.2s;
@@ -135,7 +135,7 @@ main:hover, .touch main {
   font-size: 2.1vw;
 }
 
-a, #fractal-canvas {
+/*a, #fractal-canvas {
   cursor: pointer;
 }
 
@@ -154,7 +154,7 @@ a:visited {
 
 .link {
   color: #007800;
-}
+}*/
 
 #fractal-background {
   position: fixed;
