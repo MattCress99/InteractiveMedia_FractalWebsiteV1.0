@@ -48,13 +48,7 @@ function Navbar() {
                             Fractals
                         </Link>
                     </li>
-                    <li className='nav-item'>
-                        <Link to='/FractalViewer' className='nav-links-mobile' onClick={closeMobileMenu}>
-                            Fractal Viewer
-                        </Link>
-                    </li>
                 </ul>
-                {button && <Button buttonStyle='btn--outline'>Fractal Viewer</Button>}
             </div>
         </nav>
     </>
@@ -62,3 +56,10 @@ function Navbar() {
 };
 
 export default Navbar
+
+/*<li className='nav-item'>
+                        <Link to='/FractalViewer' id = "fractal-viewer" className='nav-links-mobile' onClick={closeMobileMenu}>
+                            Fractal Viewer
+                        </Link>
+                        {button && <Button buttonStyle='btn--outline'>Fractal Viewer</Button>}
+                    </li>*/

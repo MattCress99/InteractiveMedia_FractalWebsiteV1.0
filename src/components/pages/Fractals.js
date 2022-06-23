@@ -54,6 +54,7 @@ export class Fractals extends Component {
           <p><a href="https://sciencevsmagic.net/fractal/#0060,0090,1,1,0,0,1" target="_blank">Science vs.
         Magic</a></p>
         <p><a href="http://usefuljs.net/fractals/" target="_blank">UsefulJS online fractal generator</a></p>
+        <p><a href="https://jmaio.github.io/mandelbrot-maps/#/m@-0.6141402,-0.0022623,0.62,0.2/j@0.2003044,0.1757256,0.5,2.12" target="_blank">MandelBrot maps</a></p>
           <br></br>
           <p>
             Below I have included some videos of fractals created by{" "}

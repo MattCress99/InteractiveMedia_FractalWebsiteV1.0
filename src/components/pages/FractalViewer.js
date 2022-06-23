@@ -5,17 +5,26 @@ import Initialize from "./StartFractalAppFunc"
 import { fracApp } from "../app/fracApp.js"
 import fractalApp from "../app/fractalApp.js"
 
+/*export default function StartFractalAppl()
+{
+  return(
+  var els = fracApp.elements;
+      var evFuncs = fracApp.eventFunctions;
+      els.launch1792Fractal = document.getElementById("1792-escape-time");
+      els.launch1792Fractal.addEventListener("click", evFuncs.launchFractal.bind(this, 1792));
 
+      )
+    }
+
+*/
 export class FractalViewer extends Component {
   render() {
       return (
       <>
         <div>
-          <h1 className="FractalViewer">Fractal Viewer Coming soon!</h1>
-          <a href="../fractal.html" className="Fractal">fractal</a>
+          <h1 className="FractalViewer">Click on the words "Launch Fractal" above</h1>
         </div>      
       </>
-
     );
   }
 }
@@ -69,7 +78,7 @@ export default function FractalViewer() {
     <Initialize />
     </>
   )}
-
+*/
 /*
    const path = require("path");
 
@@ -90,11 +99,11 @@ export default function FractalViewer() {
         return <div dangerouslySetInnerHTML={fractal} />;
       },
     });
-
+*/
 
     
 
 
    
  
-*/
+

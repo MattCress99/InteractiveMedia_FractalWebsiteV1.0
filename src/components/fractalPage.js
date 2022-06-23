@@ -17,6 +17,7 @@ function FractalPage() {
         <div className="fractal-btns">
           <Button
             className="btns"
+            id = "fractal-viewer"
             buttonStyle="btn--primary"
             buttonSize="btn--large"
           >

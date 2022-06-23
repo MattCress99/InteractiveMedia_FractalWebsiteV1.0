@@ -27,7 +27,6 @@ function App() {
           <Route path='/' exact component={Home}/>
           <Route path='/Blogs' exact component={Blogs}/>
           <Route path='/Fractals' exact component={Fractals}/>
-          <Route path='/FractalViewer' exact component={FractalViewer}/>
           <Route path='/Blog1' exact component={Blog1}/>
           <Route path='/Blog2' exact component={Blog2}/>
           <Route path='/Blog3' exact component={Blog3}/>
@@ -45,3 +44,5 @@ function App() {
 }
 
 export default App;
+
+/*<Route path='/FractalViewer' exact component={FractalViewer}/>*/
