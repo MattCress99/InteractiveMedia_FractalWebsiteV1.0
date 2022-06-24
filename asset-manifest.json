@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.34696654.css",
-    "main.js": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.7245f884.js",
+    "main.css": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.7535a05b.css",
+    "main.js": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.80f4016b.js",
     "static/media/fractal1.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal1.93d3ef3bced469ebf2ba.jpg",
     "static/media/fractal4.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal4.289b7364150abd0a928c.jpg",
     "static/media/fractal5.jpg": "/InteractiveMedia_FractalWebsiteV1.0/static/media/fractal5.4d4d3fddac0a9f96cfee.jpg",
@@ -20,11 +20,11 @@
     "static/media/MandelbrotSet_axis.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/MandelbrotSet_axis.890727667632aac1a1a2.png",
     "static/media/MandelBrotSet2.png": "/InteractiveMedia_FractalWebsiteV1.0/static/media/MandelBrotSet2.dd66d646546229438dac.png",
     "index.html": "/InteractiveMedia_FractalWebsiteV1.0/index.html",
-    "main.34696654.css.map": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.34696654.css.map",
-    "main.7245f884.js.map": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.7245f884.js.map"
+    "main.7535a05b.css.map": "/InteractiveMedia_FractalWebsiteV1.0/static/css/main.7535a05b.css.map",
+    "main.80f4016b.js.map": "/InteractiveMedia_FractalWebsiteV1.0/static/js/main.80f4016b.js.map"
   },
   "entrypoints": [
-    "static/css/main.34696654.css",
-    "static/js/main.7245f884.js"
+    "static/css/main.7535a05b.css",
+    "static/js/main.80f4016b.js"
   ]
 }
