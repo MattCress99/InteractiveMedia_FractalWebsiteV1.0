@@ -16,12 +16,13 @@ import Blog7 from './components/pages/singleBlog/Blog7';
 import Blog8 from './components/pages/singleBlog/Blog8';
 import WireFrames from './components/pages/singleBlog/WireFrames';
 import Footer from './components/Footer';
-
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <>
       <Router>
+      <ScrollToTop />
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
@@ -50,6 +51,7 @@ function App() {
           }} />
         </Switch>
         <Footer />
+        
       </Router>
     </>
   );
