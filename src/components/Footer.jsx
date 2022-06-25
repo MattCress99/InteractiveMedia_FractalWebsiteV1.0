@@ -21,10 +21,9 @@ function Footer() {
               <div className='footer-link-wrapper'>
                   <div class='footer-link-items'>
                       <h2>Social Media</h2>
-                      <Link to='/'>Instagram</Link>
-                      <Link to='/'>Facebook</Link>
-                      <Link to='/'>Youtube</Link>
-                      <Link to='/'>Twitter</Link>
+                      <Link to='/instagram' target="_blank">Instagram</Link>
+                      <Link to='/facebook' target='_blank'>Facebook</Link>
+                      <Link to='/linkedIn' target="_blank">LinkedIn</Link>
                   </div>
               </div>
           </div>
@@ -38,14 +37,6 @@ function Footer() {
                   <small class='website-rights'>Matthew Cresswell Copyright © 2022</small>
                   <div class='social-icons'>
                       <Link
-                          class='social-icon-link facebook'
-                          to='/'
-                          target='_blank'
-                          aria-label='Facebook'
-                      >
-                          <i class='fab fa-facebook-f' />
-                      </Link>
-                      <Link
                           class='social-icon-link instagram'
                           to='/'
                           target='_blank'
@@ -54,23 +45,15 @@ function Footer() {
                           <i class='fab fa-instagram' />
                       </Link>
                       <Link
-                          class='social-icon-link youtube'
-                          to='/'
+                          class='social-icon-link facebook'
+                          to='/facebook'
                           target='_blank'
-                          aria-label='Youtube'
+                          aria-label='Facebook'
                       >
-                          <i class='fab fa-youtube' />
+                          <i class='fab fa-facebook-f' />
                       </Link>
                       <Link
-                          class='social-icon-link twitter'
-                          to='/'
-                          target='_blank'
-                          aria-label='Twitter'
-                      >
-                          <i class='fab fa-twitter' />
-                      </Link>
-                      <Link
-                          class='social-icon-link twitter'
+                          class='social-icon-link LinkedIn'
                           to='/'
                           target='_blank'
                           aria-label='LinkedIn'
