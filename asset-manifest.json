@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/InteractiveMedia_FractalsWebsiteV1.0/static/css/main.1ef404b8.css",
+    "main.js": "/InteractiveMedia_FractalsWebsiteV1.0/static/js/main.c6b79be0.js",
+    "static/media/fractal1.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/fractal1.93d3ef3bced469ebf2ba.jpg",
+    "static/media/fractal4.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/fractal4.289b7364150abd0a928c.jpg",
+    "static/media/fractal5.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/fractal5.4d4d3fddac0a9f96cfee.jpg",
+    "static/media/SpirallingEnergy.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/SpirallingEnergy.c77214747e2eca9524d2.jpg",
+    "static/media/fractal2.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/fractal2.389ce2444ecd1125779a.jpg",
+    "static/media/img_0832.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/img_0832.fbb68785ac729e6313da.jpg",
+    "static/media/Wireframe1.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/Wireframe1.052b8a5aa54ab349ce82.png",
+    "static/media/Wireframe2.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/Wireframe2.222c03efb5a429db55d6.png",
+    "static/media/nature_fractals2.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/nature_fractals2.aee11276a249ee9d5a26.jpg",
+    "static/media/nature_fractals.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/nature_fractals.a3c1fc2049dbbd323548.jpg",
+    "static/media/frac.jpg": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/frac.fc5ce3fc230de9c47f43.jpg",
+    "static/media/JODI2.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/JODI2.8884fda637186177fed8.png",
+    "static/media/JODI.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/JODI.e5fdc730e4acb95cbfa9.png",
+    "static/media/fractaltree.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/fractaltree.03f6bf16a90793fd17f9.png",
+    "static/media/Faith.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/Faith.cb2c85d681c479eda45f.png",
+    "static/media/MandelbrotSet_axis.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/MandelbrotSet_axis.890727667632aac1a1a2.png",
+    "static/media/MandelBrotSet2.png": "/InteractiveMedia_FractalsWebsiteV1.0/static/media/MandelBrotSet2.dd66d646546229438dac.png",
+    "index.html": "/InteractiveMedia_FractalsWebsiteV1.0/index.html",
+    "main.1ef404b8.css.map": "/InteractiveMedia_FractalsWebsiteV1.0/static/css/main.1ef404b8.css.map",
+    "main.c6b79be0.js.map": "/InteractiveMedia_FractalsWebsiteV1.0/static/js/main.c6b79be0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef404b8.css",
+    "static/js/main.c6b79be0.js"
+  ]
+}
