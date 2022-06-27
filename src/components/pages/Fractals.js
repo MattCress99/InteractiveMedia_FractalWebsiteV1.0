@@ -40,7 +40,7 @@ export class Fractals extends Component {
           </p>
           <br></br>
           <p>
-            This is what my focuses is on, abstract fractals and most
+            This is what my focus is on, abstract fractals and most
             particularly the Mandelbrot Set. The equation for a Mandelbrot set
             generally looks like this in+1 = in2 + c. In this equation, c and i
             are complex or imaginary numbers and n is zero or any positive
