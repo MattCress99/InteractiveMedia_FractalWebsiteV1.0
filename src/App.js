@@ -22,7 +22,7 @@ import FinalReflections from './components/pages/singleBlog/FinalReflection';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename='/InteractiveMedia_FractalWebsiteV1.0'>
       <ScrollToTop />
         <Navbar />
         <Switch>
