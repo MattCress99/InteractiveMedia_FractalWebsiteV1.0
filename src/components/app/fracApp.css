@@ -105,6 +105,8 @@ main {
   justify-content: baseline;
   justify-items: center;
   align-items: center;
+  align-self: center;
+    align-content: center;
   position: flex;
   color: aliceblue;
   padding-left: 35%;
@@ -119,6 +121,9 @@ main {
   position: flex;
   justify-content: center;
   justify-items: center;
+  align-self: center;
+    align-items: center;
+    align-content: center;
   padding-left: 25%;
   font-size: 1em;
   line-height: 1em;
@@ -139,6 +144,9 @@ main {
   position: flex;
   justify-items: center;
   justify-content: center;
+  align-self: center;
+    align-items: center;
+    align-content: center;
   transform: translate(42%, -50%);
   -webkit-transform:  translate(42%, -50%);
   color: aliceblue;
@@ -233,37 +241,34 @@ main {
   font-size: 10vmin;
 }
 
-@media (orientation: landscape) and (max-width: 650px), (orientation: landscape) and (max-height: 550px), (orientation: portrait) and (max-height: 650px), (orientation: portrait) and (max-width: 550px) {
+@media (orientation: landscape) and (max-width: 850px), (orientation: landscape) and (max-height: 550px), (orientation: portrait) and (max-height: 650px), (orientation: portrait) and (max-width: 550px) {
 
   #fractal-background {
     display: none;
   }
 
-  main {
-    width: 70vmin;
-    height: 70vmin;
-    padding:8vmin;
-    font-size: 4vmin;
-    background-color: #b0b0b0;
-    box-shadow: 0 0 1vw rgba(0,60,0,0.4);
-    transition: 0.3s;
-  }
-
-  #fractal-title {
-    font-size: 5.5vmin;
-    padding-top: 5.4vmin;
-  }
-
   #launch-text {
-    font-size: 5vmin;
+    font-size: 1em;
+    align-self: center;
+    align-items: center;
+    align-content: center;
   }
 
   #credit-line {
-    font-size: 3.5vmin;
-    bottom: 10vmin;
+    font-size: 1em;
+    align-self: center;
+    align-items: center;
+    align-content: center;
   }
 
-  #launch-detailed-fractal, .touch #launch-detailed-fractal {
+  #launch-detailed-fractal {
+    font-size: 1em;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+  }
+
+  /*#launch-detailed-fractal, .touch #launch-detailed-fractal {
     font-size: 3.5vmin;
     white-space: nowrap;
     padding-bottom: 1.7vmin;
@@ -274,6 +279,6 @@ main {
     left: 50%;
     transform: translate(-50%, 0) rotate(0deg);
     -webkit-transform:  translate(-50%, 0) rotate(0deg);
-  }
+  }*/
 
 }

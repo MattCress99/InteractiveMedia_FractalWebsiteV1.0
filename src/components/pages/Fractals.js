@@ -42,7 +42,7 @@ export class Fractals extends Component {
           <p>
             This is what my focus is on, abstract fractals and most
             particularly the Mandelbrot Set. The equation for a Mandelbrot set
-            generally looks like this in+1 = in2 + c. In this equation, c and i
+            generally looks like this i<sub>n+1</sub> = i<sub>n</sub><sup>2</sup> + c. In this equation, c and i
             are complex or imaginary numbers and n is zero or any positive
             integer (i.e. natural number). What this equation basically means is
             that the next i value in the set is equal to its previous i value

@@ -9,6 +9,14 @@ function ContentSection() {
       </h1>
       <div className="content_container">
         <div className="content_wrapper">
+        <ul class="content_items">
+          <MiniWindow
+              src={require("../images/SpiralGalaxy.jpg")}
+              text="Final Reflecctions on the website Fractally"
+              label="Reflection"
+              path="/FinalReflections"
+            />
+          </ul>
         <ul className="content_items">
             <MiniWindow
               src={require("../images/Faith.png")}
@@ -69,6 +77,7 @@ function ContentSection() {
               path="/WireFrames"
             />
           </ul>
+          
         </div>
       </div>
     </div>

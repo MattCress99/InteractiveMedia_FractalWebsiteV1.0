@@ -17,6 +17,7 @@ import Blog8 from './components/pages/singleBlog/Blog8';
 import WireFrames from './components/pages/singleBlog/WireFrames';
 import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
+import FinalReflections from './components/pages/singleBlog/FinalReflection';
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
           <Route path='/Blog7' exact component={Blog7} />
           <Route path='/Blog8' exact component={Blog8} />
           <Route path='/WireFrames' exact component={WireFrames} />
+          <Route path='/FinalReflections' exact component={FinalReflections} />
           <Route path='/instagram' component={() => {
             window.location.href = 'https://www.instagram.com/matt_cress99/';
             return null;
